@@ -38,14 +38,13 @@ To build and run the application using Docker, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/Westemeier-Selwyn/population-API.git
    cd (repository-directory)
    ```
 2. **Build the Docker Image:**
 
     ```bash
     docker build -t (image-name) .
-    
     ```
     Replace (image-name) with a name you choose for your Docker image.
 
